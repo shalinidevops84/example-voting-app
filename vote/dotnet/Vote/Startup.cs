@@ -40,6 +40,7 @@ namespace Vote
                                  
             app.UseStaticFiles();
             app.UseMvc();
+            //Sample Pull request done
         }
     }
 }
